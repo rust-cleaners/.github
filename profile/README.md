@@ -1,6 +1,6 @@
 # Rust Cleaners
 
-We are crafting some magic with Rust. The organisation name is a joke, because someone from HR wasn't aware that Rust is a programming language and gave us a candidate who mentioned cleaning the rust from aircrafts. Since then, we can't stop joking about it. It's quite funny, but lets talk about the serious stuff now.
+We are crafting some magic with Rust. Our github's organisation name comes from a joke, because someone from HR wasn't aware that Rust is a programming language and gave us a candidate who mentioned cleaning the rust from aircrafts. Since then, we can't stop joking about it. It's quite funny, but lets talk about the serious stuff now.
 
 ## Who are we?
 
