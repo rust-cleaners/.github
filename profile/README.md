@@ -1,10 +1,10 @@
 # Rust Cleaners
 
-We are crafting some magic with Rust. The organisation name is a joke, because someone from HR wasn't aware that Rust is a programming language. He gave us a candidate who mentioned clearning the rust from the aircraft. Since then, we can't stop joking about it. Funny, haha. Okay, lets move on.
+We are crafting some magic with Rust. The organisation name is a joke, because someone from HR wasn't aware that Rust is a programming language. He gave us a candidate who mentioned cleaning the rust from aircrafts. Since then, we can't stop joking about it. It's quite funny, but lets talk about the serious stuff now.
 
 ## Who are we?
 
-We are a team from a Research & Development department which works at [Fortune Electric] in Taipei, Taiwan, on-site.
+We are a team from a Research & Development department which works at [Fortune Electric] in Taipei 大安, Taiwan, on-site.
 
 <p style="text-align:center">
   <a href="https://www.fortune.com.tw/en/index.html" target="_blank" rel="noopener noreferrer">
@@ -19,4 +19,5 @@ We are a team from a Research & Development department which works at [Fortune E
 > **Note**
 > 📢 We are hiring!
 
-TODO: Add job offer
+- 2 Rust Backend Engineers - [CakeResume](https://www.cakeresume.com/companies/fortune/jobs/taipei-backend-engineer)
+- 1 Electrical Engineer - [CakeResume](https://www.cakeresume.com/companies/fortune/jobs/taipei-intermediate-electrical-engineer)
